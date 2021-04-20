@@ -1,2 +1,3 @@
+${{ secrets.GITHUB_TOKEN }}
 - name: Epic issues for GitHub
   uses: cloudaper/epics-action@v1.1.1
